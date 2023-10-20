@@ -1,0 +1,30 @@
+.movie-thumbnail-button {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+.popup-background {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.close-button-container {
+  width: 100%;
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.close-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.close-icon {
+  width: 25px;
+  height: 25px;
+}

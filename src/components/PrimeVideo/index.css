@@ -1,0 +1,36 @@
+.background-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.prime-video-image {
+  height: 40vh;
+  width: 100%;
+  margin-bottom: 0px;
+}
+
+.movies-background-container {
+  background-color: #000000;
+  margin-top: 0px;
+  flex-grow: 1;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.movies-container {
+  margin: auto;
+  width: 90%;
+}
+
+.movies-category {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.movies-list {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+}
